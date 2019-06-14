@@ -14,4 +14,6 @@
 
 def speak_to_grandma(line)
   if !(line == line.upcase)
-    return ""
+    return "HUH?! SPEAK UP, SONNY!"
+  end
+end
