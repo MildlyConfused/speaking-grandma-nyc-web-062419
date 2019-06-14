@@ -18,4 +18,6 @@ def speak_to_grandma(line)
   end
   elsif line == line.upcase
     return "NO, NOT SINCE 1938!"
+  end
+  elsif line == ""
 end
