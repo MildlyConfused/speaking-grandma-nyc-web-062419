@@ -20,5 +20,5 @@ def speak_to_grandma(line)
     return "NO, NOT SINCE 1938!"
   end
   elsif line == "I LOVE YOU GRANDMA!"
-    
+    return "I LOVE YOU TOO PUMPKIN!"
 end
